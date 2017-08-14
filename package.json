@@ -1,0 +1,24 @@
+{
+  "name": "tombola-server",
+  "version": "1.0.0",
+  "description": "Tombola server app - Must be run on PC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ITGuy9401/tombola-server.git"
+  },
+  "keywords": [
+    "tombola",
+    "app",
+    "server"
+  ],
+  "author": "Arcangelo Vicedomini",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ITGuy9401/tombola-server/issues"
+  },
+  "homepage": "https://github.com/ITGuy9401/tombola-server#readme"
+}
